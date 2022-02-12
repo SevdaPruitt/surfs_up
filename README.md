@@ -7,10 +7,10 @@ I have been working with W.Avy and he asked more information about temperature t
 Results: 
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
-![June_temps.png](Resources/June_temps)
+![June_temps.png](Resources/June_temps.png)
 Average temperature is around ~75 degrees Fahreinheight and maximum being 85 degrees. 
 
-![Dec_temps.png](Resources/Dec_temps)
+![Dec_temps.png](Resources/Dec_temps.png)
 Average temperature in December is around 71 degrees Fahreinheight with maximum temperature around 83 degrees.
 
 Summary: 
