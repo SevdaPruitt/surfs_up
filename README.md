@@ -5,14 +5,26 @@ I have been working with W.Avy and he asked more information about temperature t
 
 
 # Results: 
-
+## Temperatures
 ![June_temps.png](Resources/June_temps.png)
 
-Average temperature is around ~75 degrees Fahreinheight and maximum being 85 degrees. 
+- average is around ~75 degrees Fahreinheight
+- maximum being 85 degrees 
 
 ![Dec_temps.png](Resources/Dec_temps.png)
 
-Average temperature in December is around 71 degrees Fahreinheight with maximum temperature around 83 degrees.
+- average is around 71 degrees Fahreinheight
+- maximum tempeature around 83 degrees
 
 # Summary: 
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+Additional data points in our sqlite database is the precipitation data. 
+
+![June_Prcp.png](Resources/June_Prcp.png)
+
+- average precipitation in June is around ~0.136
+- maximum amount of precipitation is ~4.4
+
+![Dec_Prcp.png](Resources/Dec_Prcp.png)
+
+- average precipitation in December is 0.2
+- maximum precipitation in December is 6.4
